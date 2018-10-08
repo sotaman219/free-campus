@@ -1,0 +1,5 @@
+asset 'bootstrap-material-design', '4.0.0-beta.4'
+asset 'scrollup'
+asset 'popper.js'
+asset 'tether'
+asset 'magnific-popup'
